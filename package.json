@@ -1,0 +1,24 @@
+{
+  "name": "nodejs",
+  "version": "0.0.0",
+  "description": "NodeJS exercises",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.3",
+    "grunt-cli": "^0.1.13",
+    "winston": "^2.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Mateus-Resende/nodejs.git"
+  },
+  "author": "Mateus Resende",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mateus-Resende/nodejs/issues"
+  }
+}
